@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/IdeaProjects/javafx-sdk-19/lib" />
+      <root url="jar://$PROJECT_DIR$/fontawesomefx/fontawesomefx-fontawesome-4.7.0-9.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gluonhq/charm-glisten-6.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/IdeaProjects/javafx-sdk-19/lib" recursive="false" />
+  </library>
+</component>
